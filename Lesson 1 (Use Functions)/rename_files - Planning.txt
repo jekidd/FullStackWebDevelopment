@@ -1,0 +1,3 @@
+- get file names
+- for each file
+    - remove numbers from file name

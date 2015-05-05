@@ -1,0 +1,3 @@
+Repeat 3 times:
+- wait two hours
+- open web browser to music video
